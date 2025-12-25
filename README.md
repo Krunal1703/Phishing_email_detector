@@ -103,7 +103,7 @@ Copy code
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone Repository
-git clone https://github.com/your-username/phishing_email_detector.git
+git clone https://github.com/Krunal1703/Phishing_email_detector.git
 cd phishing_email_detector
 2️⃣ Install Dependencies
 bash
@@ -136,22 +136,20 @@ Open browser → Paste email → Analyze → Get result with confidence.
 This project supports Large Language Model (LLM) analysis for advanced reasoning and explainability.
 
 Steps:
-Create an OpenAI account
+1. Create an OpenAI account
 
-Generate an API key
+2. Generate an API key
 
-Set environment variable (Windows):
+3. Set environment variable (Windows):
 
-powershell
+4. powershell
 Copy code
 setx OPENAI_API_KEY "your_api_key_here"
 Enable “Use LLM (Advanced Analysis)” checkbox in the UI
 
-LLM Provides:
+5. LLM Provides:
 Phishing confirmation
-
 Risk level
-
 Short security explanation
 
 📈 Model Performance
@@ -220,4 +218,4 @@ You may modify and extend it as needed.
 🙌 Author
 Krunal
 B.E. Computer Engineering
-Cybersecurity & Machine Learning Enthusiast
+Cybersecurity Enthusiast
