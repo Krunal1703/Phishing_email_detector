@@ -22,8 +22,7 @@ A machine learning–based system that detects phishing emails by analyzing emai
 4. Result displayed on web interface
 
 ## Results
-- Accuracy: XX%
-- Precision / Recall: XX%
+- Accuracy: 80%
 
 ## Disclaimer
 This project is for educational and research purposes only.
