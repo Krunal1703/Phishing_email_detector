@@ -103,7 +103,6 @@ Copy code
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone Repository
-```bash
 git clone https://github.com/your-username/phishing_email_detector.git
 cd phishing_email_detector
 2️⃣ Install Dependencies
